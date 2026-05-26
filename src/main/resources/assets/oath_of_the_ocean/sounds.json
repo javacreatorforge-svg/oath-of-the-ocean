@@ -1,0 +1,116 @@
+{
+  "el_gran_maja_idle": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.el_gran_maja.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle1",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle2",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle3",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle4",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle5",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle6",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle7",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle8",
+        "stream": false
+      }
+    ]
+  },
+  "sea_eater_idle": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.sea_eater.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle1",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle2",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle3",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle4",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle5",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle6",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle7",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle8",
+        "stream": false
+      }
+    ]
+  },
+  "the_bloop_idle": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.the_bloop.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle1",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle2",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle3",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle4",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle5",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle6",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle7",
+        "stream": false
+      },
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle8",
+        "stream": false
+      }
+    ]
+  }
+}
